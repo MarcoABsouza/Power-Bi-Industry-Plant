@@ -49,17 +49,17 @@ Este projeto tem como objetivo explorar dados anuais de vendas, quantidade e luc
        - Quantity
        - Sales
     - PYTD
-      - PYTD_GrossProfit
-      - PYTD_Quantity
-      - PYTD_Sales
+       - PYTD_GrossProfit
+       - PYTD_Quantity
+       - PYTD_Sales
     - YTD
-      - YTD_GrossProfit
-      - YTD_Quantity
-      - YTD_Sales
+       - YTD_GrossProfit
+       - YTD_Quantity
+       - YTD_Sales
     - SWITCH
-      - S_PYTD
-      - S_YTD
-      - YTD vs PYTD
+       - S_PYTD
+       - S_YTD
+       - YTD vs PYTD
 
 ### 3. **Visualizações**
    - Gráficos criados com:
