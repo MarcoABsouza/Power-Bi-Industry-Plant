@@ -72,5 +72,5 @@ Este projeto tem como objetivo explorar dados anuais de vendas, quantidade e luc
 
 - Power BI
 - Excel
-- 
+  
 ---
