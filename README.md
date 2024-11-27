@@ -43,20 +43,24 @@ Este projeto tem como objetivo explorar dados anuais de vendas, quantidade e luc
 ### 2. **Transformação de Dados**
    - Processos de limpeza e preparação foram aplicados.
    - Métricas calculadas:
-     - Basicas:
+     
+   - Basicas:
        - COGs
        - Gross Profit
        - Quantity
        - Sales
-    - PYTD
+         
+   - PYTD:
        - PYTD_GrossProfit
        - PYTD_Quantity
        - PYTD_Sales
-    - YTD
+         
+   - YTD:
        - YTD_GrossProfit
        - YTD_Quantity
        - YTD_Sales
-    - SWITCH
+         
+   - SWITCH:
        - S_PYTD
        - S_YTD
        - YTD vs PYTD
